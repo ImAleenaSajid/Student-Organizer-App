@@ -103,5 +103,5 @@ A student productivity app built with **Kotlin**, **Jetpack Compose**, and **Roo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Please Watch the Video Attached
+## Please Watch the Attached Working Video
 ### Made By Aleena Sajid
